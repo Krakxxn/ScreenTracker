@@ -13,9 +13,8 @@
 2. Installez les dépendances avec `pip install -r requirements.txt`.
 3. Lancez `screen_tracker.py` pour commencer le suivi.
 
-## Capture d'écran :
-(Ajoutez ici une capture d'écran de votre interface)
+
 
 ## Auteur :
-*[Votre Nom]*
+*Krakxxn*
 
